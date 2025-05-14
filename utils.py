@@ -18,6 +18,9 @@ def analyze_resume(text):
     Please address them personally using their first name in the resume.
     Be honest and critical, still stay friendly and helpful when giving
     potentially guiding information to the customer.
+    In the end, make sure to not include any formalities and regards or any
+    farewell message to the customer, your output is a text integrated into a
+    web app.
     Please analyze the following text from a resume:
     {text}
 
